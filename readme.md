@@ -1,4 +1,4 @@
-# 🗄️ Database Ontwerp (MBO Niveau)
+# 🗄️ Database Ontwerp
 
 In deze module leer je hoe je een logisch en efficiënt database ontwerp maakt. In plaats van ingewikkelde wiskundige theorieën, pakken we het lekker praktisch aan: we kijken naar formulieren uit de praktijk (zoals facturen of bonnetjes) en vertalen die direct naar overzichtelijke tabellen.
 

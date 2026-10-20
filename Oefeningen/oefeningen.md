@@ -39,3 +39,23 @@ Als docent kun je deze "slechte" administraties op het bord projecteren of uitde
 | 13-04-2023 | K. | 3A | Frikandel | Mayo | 2,00 |
 
 ---
+
+## Oefening 4: Scooterwerkplaats "De Snelle Cilinder"
+
+### 📖 De Bedrijfscontext
+*Context: Mohammed ('Mo') runt samen met stagiair Sam een scooterwerkplaats in Amsterdam. Klanten brengen hun scooter langs voor reparaties of een onderhoudsbeurt. 
+
+Mo houdt alle reparaties bij in één simpel Excel-bestand. Maar doordat vaste klanten soms meerdere scooters hebben, dezelfde scooters vaker terugkomen en de namen van de monteurs steeds opnieuw worden ingetypt, ontstaat er een hoop dubbele data (duplicaten). Mo wil dit Excel-bestand laten ombouwen naar een nette database van **precies 4 tabellen**.
+
+### 📊 Het Excel-bestand (`reparaties_oktober.xlsx`)
+
+| BonNr | Datum | Klantnaam | Telefoon | Woonplaats | Kenteken | Scooter (Merk/Model) | Klacht / Reparatie | Kosten | Monteur | Betaald? |
+| :---: | :---: | :--- | :--- | :--- | :---: | :--- | :--- | :---: | :---: | :---: |
+| **101** | 14-10-2026 | Dylan Bakker | 06-11223344 | Amsterdam | D-123-AB | Piaggio Zip | Startmotor vervangen | € 85,00 | Mo | Ja |
+| **102** | 15-10-2026 | D. Bakker | 0611223344 | Amsterdam | 45-FGH-1 | Vespa Sprint | Koplamp doorgebrand | € 35,00 | Sam | Nee |
+| **103** | 16-10-2026 | Anouk de Wit | 06-99887766 | Diemen | F-991-BB | Sym Mio 50 | Lekke achterband | € 25,00 | Mo | Ja |
+| **104** | 18-10-2026 | Kevin Smit | 023-5544332 | Haarlem | DJ-44-K | Piaggio Zip SP | Grote onderhoudsbeurt | € 120,00 | Sam | Ja |
+| **105** | 19-10-2026 | Dylan Bakker | 06-11223344 | Amsterdam | D-123-AB | Piaggio Zip | Remkabel gebroken | € 45,00 | Mo | Nee |
+
+
+---
